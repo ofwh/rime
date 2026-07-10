@@ -26,8 +26,8 @@ mv ~/Library/Rime ~/Library/Rime-Original
 git clone https://github.com/gaboolic/rime-frost --single-branch --depth=1 ~/Library/Rime
 
 # Append custom configuration
-curl -L https://raw.githubusercontent.com/luoweihua7/rime/main/squirrel/default.custom.yaml -o ~/Library/Rime/default.custom.yaml
-curl -L https://raw.githubusercontent.com/luoweihua7/rime/main/squirrel/squirrel.custom.yaml -o ~/Library/Rime/squirrel.custom.yaml
+curl -L https://raw.githubusercontent.com/ofwh/rime/main/squirrel/default.custom.yaml -o ~/Library/Rime/default.custom.yaml
+curl -L https://raw.githubusercontent.com/ofwh/rime/main/squirrel/squirrel.custom.yaml -o ~/Library/Rime/squirrel.custom.yaml
 ```
 
 ### 雾凇拼音
@@ -40,8 +40,8 @@ mv ~/Library/Rime ~/Library/Rime-Original
 git clone https://github.com/iDvel/rime-ice --single-branch --depth=1 ~/Library/Rime
 
 # Append custom configuration
-curl -L https://raw.githubusercontent.com/luoweihua7/rime/main/squirrel/default.custom.yaml -o ~/Library/Rime/default.custom.yaml
-curl -L https://raw.githubusercontent.com/luoweihua7/rime/main/squirrel/squirrel.custom.yaml -o ~/Library/Rime/squirrel.custom.yaml
+curl -L https://raw.githubusercontent.com/ofwh/rime/main/squirrel/default.custom.yaml -o ~/Library/Rime/default.custom.yaml
+curl -L https://raw.githubusercontent.com/ofwh/rime/main/squirrel/squirrel.custom.yaml -o ~/Library/Rime/squirrel.custom.yaml
 ```
 
 ## 重新部署
